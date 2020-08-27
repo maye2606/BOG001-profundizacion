@@ -8,8 +8,8 @@ Este repositorio será tu herramienta principal para el registro de actividades 
 ## Listado de objetivos
 Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqueantes, trata de no elegir demasiados para poder planear y dedicarle el tiempo necesario a cada uno.
   1. Selectores y manuipulacion dinamica del DOM.
-  2. Uso de condicionales |if|else|switch|operador ternario|
-  3. Funciones |Ejercicios.
+  2. Uso de condicionales |If|Else|Switch|Operador Ternario|
+  3. Funciones |Ejercicios|.
   4. Testing.
   5. Modularizacion.
   6. Tipos de datos estructurados y atomicos.
